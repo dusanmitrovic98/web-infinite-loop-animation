@@ -14,3 +14,4 @@ body, html {
     background: linear-gradient(45deg, #ff0084, #ffbf00, #00ffcc);
     animation: morphLiquid 20s linear infinite;
     clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+}

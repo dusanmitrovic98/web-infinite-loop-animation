@@ -21,3 +21,4 @@ body, html {
         clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
     }
     25% {
+        clip-path: polygon(70% 0%, 100% 100%, 0% 100%);
